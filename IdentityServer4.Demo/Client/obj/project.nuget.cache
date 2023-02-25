@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzDVkHlxLFkOprITTajJ0c4cdKohhGeYyEN9BtybgcvfrU355Aq69aY56PStUFEdMLWZQ9kGGykrEn0Kl7qO+g==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Learnings\\.Net\\IdentityServer4.Demo\\IdentityServer4.Demo\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
